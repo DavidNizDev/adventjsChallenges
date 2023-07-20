@@ -1,0 +1,12 @@
+{
+  "name": "desafios-adventjs",
+  "version": "1.0.0",
+  "description": "Resolving 24 Javascript challenges from adventjs.dev, made by Midudev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
